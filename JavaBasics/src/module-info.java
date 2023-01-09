@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kambl
+ *
+ */
+module JavaBasics {
+}
