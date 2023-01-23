@@ -1,4 +1,4 @@
-package BasicJava;
+package basicJava;
 
 public class AutoBoxing {
 
