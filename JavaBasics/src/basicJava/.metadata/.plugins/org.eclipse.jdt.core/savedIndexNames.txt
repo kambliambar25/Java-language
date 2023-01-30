@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\AmbarKambli\Documents\GitHub\Java-language\JavaBasics\src\basicJava\.metadata\.plugins\org.eclipse.jdt.core
+3285135714.index
+1865797976.index
+3035928421.index
